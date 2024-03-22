@@ -1,0 +1,33 @@
+{
+  "name": "velmolestias",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "license": "GPL-2.0",
+  "author": "DexterKonopelski",
+  "homepage": "https://github.com/MayeSchuppe/velmolestias.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MayeSchuppe/velmolestias.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MayeSchuppe/velmolestias.git/issues"
+  },
+  "description": "minimal library to decode a signed raw Ethereum transaction",
+  "keywords": [
+    "web3.js",
+    "web3",
+    "qui",
+    "facere",
+    "voluptas",
+    "magnam",
+    "quia",
+    "geth",
+    "testrpc",
+    "illo",
+    "modi",
+    "consequuntur",
+    "et",
+    "trufflesuite"
+  ]
+}
